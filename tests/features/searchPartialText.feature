@@ -1,3 +1,5 @@
+# This is the Feature file of the Requirment - 1
+
 Feature: Search Functionality validation
 
   Scenario Outline: To validate if the search results contains searched text only

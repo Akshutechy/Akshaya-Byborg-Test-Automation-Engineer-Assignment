@@ -1,3 +1,5 @@
+# This is the Feature file of the Requirment - 3
+
 Feature: Category and Topic validation
 
   Scenario Outline: To validate if the displaying results are as per the selected category/topic
